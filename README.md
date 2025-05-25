@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm **Sunil**
 
 <p align="center">
-  <img https://github.com/Suneel-717/Suneel-717/blob/main/assets/coding-avatar.png
+  <img https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg
  />
 </p>
 
