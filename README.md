@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm **Sunil**
 
 <p align="center">
-  <img src="https://github.com/suneel-717/suneel-717/blob/main/ChatGPT%20Image%20May%2025,%202025,%2010_10_06%20PM.png" alt="Sunil DevOps Banner" style="width:100%;" />
+  <img https://github.com/Suneel-717/Suneel-717/blob/main/assets/coding-avatar.png
+ />
 </p>
 
 ---
