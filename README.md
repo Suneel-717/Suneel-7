@@ -1,6 +1,5 @@
 ### 👋 Hi there, I'm **Sunil**
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
 
 ---
 
@@ -17,10 +16,8 @@
 📧 **Email**: thimmampallisunil717@gmail.com
 
 </td>
-<td>
-  <img src="https://github.com/suneel-717/suneel-717/blob/main/34940c13-3802-4a16-a1a8-d6d88125ffad.png" alt="coding" width="400px" />
-</td>
-</tr>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
+
 </table>
 
 ---
