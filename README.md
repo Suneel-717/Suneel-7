@@ -1,9 +1,6 @@
 ### 👋 Hi there, I'm **Sunil**
 
-<p align="center">
-  <img https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg
- />
-</p>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
 
 ---
 
